@@ -41,7 +41,7 @@ ns1 ── veth ── br0 ── router-ns ── br1 ── veth ── ns2
 * router ↔ br1
 
 ---
-## 🧠 Network Diagram
+##  Network Diagram
 
 ![Network Diagram](diagram.png)
 
