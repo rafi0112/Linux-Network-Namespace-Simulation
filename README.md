@@ -43,7 +43,7 @@ ns1 ── veth ── br0 ── router-ns ── br1 ── veth ── ns2
 ---
 ##  Network Diagram
 
-![Network Diagram](diagram.png)
+![Network Diagram](Diagram.png)
 
 ---
 ##  IP Addressing Scheme
